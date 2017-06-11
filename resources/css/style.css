@@ -1,21 +1,18 @@
 body {
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
   background-color: black;
   text-align: center;
   color: white
 }
 h1 {
-  font-weight: normal;
   font-size: 50px;
 }
 h2 {
-  font-weight: 300;
   font-size: 42px;
 }
-h3 {
-  font-weight: normal;
+p {
   font-size: 21px;
-  color: grey;
+  color: gray;
 }
 .footer {
   text-align: right;
@@ -24,5 +21,4 @@ a {
   font-size: 16px;
   text-decoration: underline;
   color: Aquamarine;
-
 }
